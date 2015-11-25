@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+.svns
+**.sass-cache
+Gemfile.lock
+**.sublime-workspace
