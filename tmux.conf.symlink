@@ -6,6 +6,7 @@ set -s escape-time 0
 
 set-option -g default-command "reattach-to-user-namespace -l $SHELL -l"
 
+
 # Allow mouse to select pane.
 set-option -g mouse on
 
@@ -31,4 +32,3 @@ set -g status-left-length 70
     set -g status-left "#[bg=magenta,fg=white] ⚒ #[bg=brightmagenta,fg=white] #(whoami) #[bg=brightcyan,fg=white] #S "
 
 set -g status-right '#[fg=yellow,bg=black] #h | #(curl -4 icanhazip.com) | %H:%M '
-#  : #[bg=brightblue,fg=white]#(curl -4 icanhazip.com) :
