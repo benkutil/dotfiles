@@ -1,0 +1,6 @@
+ssh/config.d/01-adhoc.config
+ssh/config.d/02-clients.config
+ssh/config.d/03-personal.config
+ssh/config.d/08-services.config
+ssh/config.d/09-general.config
+ssh/config.d/10-default.config
