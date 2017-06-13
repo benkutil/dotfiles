@@ -1,4 +1,5 @@
 gnupg/gpg-agent.conf
+gnupg/gpg.conf
 ssh/config.d/01-adhoc.config
 ssh/config.d/02-clients.config
 ssh/config.d/03-personal.config
