@@ -25,3 +25,4 @@ set -g default_user ktb
 ##
 
 set -xg HOMEBREW_CASK_OPTS "--appdir=~/Applications"
+set -xg HOMEBREW_NO_ANALYTICS 1
