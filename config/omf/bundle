@@ -10,7 +10,6 @@ package gi
 package https://github.com/benkutil/omf-pkg-gpg
 package https://github.com/oh-my-fish/plugin-bak
 package local-config
-package pbcopy
 package rbenv
 package spark
 package ssh-config.d
