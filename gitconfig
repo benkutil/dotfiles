@@ -64,3 +64,5 @@
     diffstat=diff --stat -r
     lc = log ORIG_HEAD.. --stat --no-merges
     stache = !git -c commit.gpgsign=false stash
+[status]
+	submoduleSummary = true
