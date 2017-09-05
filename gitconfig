@@ -6,11 +6,11 @@
     editor = subl -w
     whitespace=fix,-indent-with-non-tab,trailing-space,space-before-tab,cr-at-eol
     autocrlf = input
-	excludesfiles = /Users/ktb/.gitignore_global
+	excludesfile = /Users/ktb/.gitignore_global
 [commit]
     gpgsign = true
 [gpg]
-    program = gpg2
+    program = gpg
 [rerere]
     enabled = true
 [rebase]
@@ -66,3 +66,5 @@
     stache = !git -c commit.gpgsign=false stash
 [status]
 	submoduleSummary = true
+[url "git@github.com:"]
+    insteadOf = https://github.com/
