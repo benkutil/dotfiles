@@ -39,6 +39,7 @@ brew "jq"
 brew "libevent"
 brew "libusb-compat"
 brew "makedepend"
+brew "mas"
 brew "micro"
 brew "node"
 brew "pinentry-mac"
@@ -111,3 +112,21 @@ cask "typora"
 cask "viscosity"
 cask "vmware-fusion"
 cask "webpquicklook"
+mas "1Password", id: 443987910
+mas "BreakTime", id: 427475982
+mas "Fantastical 2", id: 975937182
+mas "JPEGmini", id: 498944723
+mas "Keynote", id: 409183694
+mas "Moom", id: 419330170
+mas "Numbers", id: 409203825
+mas "OmniFocus", id: 867299399
+mas "Pages", id: 409201541
+mas "Patterns", id: 429449079
+mas "PDF Expert", id: 1055273043
+mas "Pixelmator", id: 407963104
+mas "Skitch", id: 425955336
+mas "Slack", id: 803453959
+mas "Soulver", id: 413965349
+mas "Tweetbot", id: 557168941
+mas "UlyssesMac", id: 1225570693
+mas "xScope", id: 889428659
