@@ -2,8 +2,8 @@
 ## Environment Variables
 ## - OMF
 ##   - Ocean Theme
-## - Github
-##   - Github Token
+## - GPG
+##   - GPG TTY
 ## - Homebrew
 ##   - Homebrew Cask
 ##
@@ -14,6 +14,13 @@
 ##
 set -g theme_display_user yes
 set -g default_user ktb
+
+
+##
+## GPG TTY
+##
+
+set -x GPG_TTY (tty)
 
 
 ##
