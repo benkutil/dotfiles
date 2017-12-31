@@ -1,3 +1,5 @@
+## FISH
+## Fish Greeting
 ##
 ## Environment Variables
 ## - OMF
@@ -7,6 +9,19 @@
 ## - Homebrew
 ##   - Homebrew Cask
 ##
+
+
+##
+## Fish
+## 
+## Fish Greeting
+set -x fish_greeting ""
+
+
+##
+## OMF direnv
+##
+eval (direnv hook fish)
 
 
 ##
