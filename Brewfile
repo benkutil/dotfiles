@@ -126,7 +126,6 @@ mas "Patterns", id: 429449079
 mas "PDF Expert", id: 1055273043
 mas "Pixelmator", id: 407963104
 mas "Skitch", id: 425955336
-mas "Slack", id: 803453959
 mas "Soulver", id: 413965349
 mas "Tweetbot", id: 557168941
 mas "UlyssesMac", id: 1225570693
